@@ -1,2 +1,2 @@
 # rudotcom.github.io
-Александр Трошков, веб разработчик
+Alexander Troshkov, web developer
